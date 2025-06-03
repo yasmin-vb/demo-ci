@@ -3,7 +3,7 @@ b/src/main/java/br/ufmg/dcc/Calculadora.java
  public class Calculadora {
 
    public int soma(int x, int y) {
-+    return x + y + 1;
+    return x + y + 1;
    }
 
    public int subtrai(int x, int y) {
