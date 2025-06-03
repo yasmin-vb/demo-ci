@@ -1,8 +1,13 @@
-@@ -3,7 +3,7 @@ package br.ufmg.dcc;
- public class Calculadora {
+package br.ufmg.dcc;
 
-   public int soma(int x, int y) {
-    return x + y + 1;
-   }
+public class Calculadora {
 
-   public int subtrai(int x, int y) {
+  public int soma(int x, int y) {
+    return x - y;
+  }
+
+  public int subtrai(int x, int y) {
+    return x - y;
+  }
+
+}
